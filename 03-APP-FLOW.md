@@ -34,7 +34,7 @@ Be concrete. Write "clicking Save stores the project and opens /projects/[id]", 
 
 ## Template
 
-```markdown
+~~~markdown
 # App Flow: [App name]
 
 ## 1. Sitemap
@@ -71,4 +71,4 @@ flowchart LR
   Home --> Signup --> Onboarding --> Dashboard
   Dashboard --> Projects --> Project
 ```
-```
+~~~

@@ -35,7 +35,7 @@ Use clear snake_case names. Every table gets id, created_at and updated_at. Neve
 
 ## Template
 
-```markdown
+~~~markdown
 # Backend Schema: [App name]
 
 ## 1. Authentication
@@ -88,4 +88,4 @@ erDiagram
 
 ## 8. Migrations
 - Every change is a numbered migration file, tried on development before production.
-```
+~~~
